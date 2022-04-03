@@ -7,7 +7,7 @@ This is a Java program for a hotel reservation system. It was developed as the f
 3. **Booking a room**
 4. **Viewing reservations**
 
-![Uploading hotelreservation.gif…]()
+![hotelreservation](https://user-images.githubusercontent.com/18309505/161409346-1ae06b17-118f-4bd5-bb4e-da41c9f5d3e5.gif)
 
 ## Administrative scenarios
 1. Viewing all customers' accounts
